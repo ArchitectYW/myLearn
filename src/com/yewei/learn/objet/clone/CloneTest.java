@@ -1,4 +1,4 @@
-package com.yewei.learn.objet;
+package com.yewei.learn.objet.clone;
 
 public class CloneTest {
     public static void main(String[] args) throws CloneNotSupportedException {

@@ -1,4 +1,4 @@
-package com.yewei.learn.objet;
+package com.yewei.learn.objet.clone;
 
 public class Person implements Cloneable{
 
